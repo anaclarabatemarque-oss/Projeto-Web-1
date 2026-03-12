@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\projetos_vscode\bin\Debug\net10.0\projetos_vscode.exe
+C:\Users\User\OneDrive\Desktop\projetos_vscode\bin\Debug\net10.0\projetos_vscode.deps.json
+C:\Users\User\OneDrive\Desktop\projetos_vscode\bin\Debug\net10.0\projetos_vscode.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\projetos_vscode\bin\Debug\net10.0\projetos_vscode.dll
+C:\Users\User\OneDrive\Desktop\projetos_vscode\bin\Debug\net10.0\projetos_vscode.pdb
+C:\Users\User\OneDrive\Desktop\projetos_vscode\obj\Debug\net10.0\projetos_vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\projetos_vscode\obj\Debug\net10.0\projetos_vscode.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\projetos_vscode\obj\Debug\net10.0\projetos_vscode.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\projetos_vscode\obj\Debug\net10.0\projetos_vscode.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\projetos_vscode\obj\Debug\net10.0\projetos_vscode.dll
+C:\Users\User\OneDrive\Desktop\projetos_vscode\obj\Debug\net10.0\refint\projetos_vscode.dll
+C:\Users\User\OneDrive\Desktop\projetos_vscode\obj\Debug\net10.0\projetos_vscode.pdb
+C:\Users\User\OneDrive\Desktop\projetos_vscode\obj\Debug\net10.0\projetos_vscode.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\projetos_vscode\obj\Debug\net10.0\ref\projetos_vscode.dll
